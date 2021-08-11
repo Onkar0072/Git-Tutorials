@@ -5,3 +5,6 @@ Local
 Stumps
 Batsman
 Bowler
+
+Banana
+Apple
